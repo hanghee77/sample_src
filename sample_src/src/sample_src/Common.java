@@ -7,5 +7,6 @@ public class Common {
 		System.out.println("modify1 common");
 		System.out.println("modify2 common");
 		System.out.println("modify3 common");
+		System.out.println("modify4 common");
 	}
 }
